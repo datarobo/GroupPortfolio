@@ -32,7 +32,7 @@ class Header extends Component {
     return (
       <HeaderDiv>
         <Link to="/">
-          <ProfileImage src={require('../assets/confettiCropped.jpg')} alt='Sophia Ciocca'/>
+          <ProfileImage src={require('../assets/096_gb6mjp.jpg')} alt='Sophia Ciocca'/>
           <ProfileTitle>DataRobo Group Portfolio</ProfileTitle>
         </Link>
         <div>
